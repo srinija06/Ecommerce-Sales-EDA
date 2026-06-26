@@ -96,7 +96,7 @@ The heatmap illustrates the relationships between numerical variables such as Qu
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
----
+
 
 ## 📊 Key Findings
 
